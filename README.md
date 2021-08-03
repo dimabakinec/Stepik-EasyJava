@@ -1,1 +1,1 @@
-# Stepik-EasyJava
+# StepikEasyJava
